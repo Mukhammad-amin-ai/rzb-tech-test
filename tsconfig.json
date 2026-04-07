@@ -11,6 +11,7 @@
     "exactOptionalPropertyTypes": true,
 
     "strict": true,
+    "strictPropertyInitialization": false,
     "verbatimModuleSyntax": false,
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
